@@ -7,7 +7,7 @@ MovieDB is an app written in Swift exclusively for iOS devices. It provides a fe
 
 ## Why?
 
-Mostly because I am learning iOS development and it seemed like a nice litte project to expand my knowledge and portfolio. I also wanted to make more *simplified* version of already wonderful app from IMDB.
+Mostly because I am learning iOS development and it seemed like a nice little project to expand my knowledge and portfolio. I also wanted to make more *simplified* version of already wonderful app from IMDB.
 
 ## Current state
 
